@@ -1,7 +1,7 @@
 # GANs for Stock Market Prediction
 
 ## Overview
-This project leverages **Generative Adversarial Networks (GANs)** for predicting stock prices, using a **Gated Recurrent Unit (GRU)** generator and a **Convolutional Neural Network (CNN)** discriminator. GANs are capable of generating synthetic stock price sequences that mimic real-world market behavior, offering a novel approach to financial forecasting.
+This project leverages **Generative Adversarial Networks (GANs)** for predicting stock prices, using a **Gated Recurrent Unit (GRU)** generator and a **Convolutional Neural Network (CNN)** discriminator. GANs are capable of generating synthetic stock price sequences that mimic real-world market behavior, offering a novel approach to financial forecasting:
 
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/ffddea5b-3ef6-4490-8918-77333741c16a">
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/742ebe8d-b7c4-4c57-9981-c4183878801a">
